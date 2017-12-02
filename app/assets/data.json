@@ -1,0 +1,70 @@
+{
+  "instagram": {
+    "accounts": [
+      {
+        "name": "Insta user 1",
+        "followers": 5,
+        "postPrice": 54
+      },
+      {
+        "name": "Insta user 2",
+        "followers": 3,
+        "postPrice": 1234
+      },
+      {
+        "name": "Insta user 3",
+        "followers": 12,
+        "postPrice": 435
+      },
+      {
+        "name": "Insta user 4",
+        "followers": 34,
+        "postPrice": 234
+      },
+      {
+        "name": "Insta user 5",
+        "followers": 56,
+        "postPrice": 65
+      },
+      {
+        "name": "Insta user 6",
+        "followers": 42,
+        "postPrice": 456
+      },
+      {
+        "name": "Insta user 7",
+        "followers": 12,
+        "postPrice": 2346
+      },
+      {
+        "name": "Insta user 8",
+        "followers": 50,
+        "postPrice": 723
+      }
+    ]
+  },
+  "youtube": {
+    "accounts": [
+      {
+        "name": "Youtube user 1",
+        "followers": 55,
+        "postPrice": 100
+      },
+      {
+        "name": "Youtube user 2",
+        "followers": 22,
+        "postPrice": 312
+      },
+      {
+        "name": "Youtube user 3",
+        "followers": 57,
+        "postPrice": 123
+      },
+      {
+        "name": "Youtube user 4",
+        "followers": 12,
+        "postPrice": 10
+      }
+    ]
+  }
+}
