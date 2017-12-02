@@ -11,6 +11,8 @@
 ### Tech stack:
 * Webpack
 * ReactJS
+* Redux
+* React-router
 * Superagent
 * CSS-modules
 * Express
